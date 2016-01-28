@@ -12,7 +12,7 @@ public class Main
 
     public static void main(String[] args)
     {
-        solvePuzzle(909090);
+        solvePuzzle(999999999);
     }
 
     public static void solvePuzzle(long num)
